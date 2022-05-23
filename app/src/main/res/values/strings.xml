@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StickyHeaders</string>
+    <string-array name="notice_type">
+        <item>General Notice</item>
+        <item>Maintainance Notice</item>
+        <item>Festival Notice</item>
+        <item>Meeting Notice</item>
+        <item>Security Notice</item>
+    </string-array>
+
+</resources>

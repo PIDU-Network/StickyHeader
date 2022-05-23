@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/StickyHeaders/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1265" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/drawable/drop_arrow.xml" value="0.1265" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1265" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/drawable/ic_delete_black.xml" value="0.1265" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/drawable/spinner.xml" value="0.1265" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/activity_main.xml" value="0.14791666666666667" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/activity_sticky_header.xml" value="0.25" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/child_item.xml" value="0.14791666666666667" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/parent_item.xml" value="0.22" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/row_recycler.xml" value="0.4466666666666667" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/row_section_header.xml" value="0.16666666666666666" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/user_rv_item.xml" value="0.14791666666666667" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/view_header.xml" value="0.14791666666666667" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/layout/view_item.xml" value="0.8980263157894737" />
+        <entry key="..\:/StickyHeaders/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
